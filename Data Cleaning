@@ -1,0 +1,22 @@
+Data Cleaning
+Data cleaning is a common and very important task when working with data.
+
+What you need to do:
+
+First: Open the three data sets below
+
+
+1.Reaction Types
+2.Reactions
+3.Content
+
+all are excel/google sheet format.
+
+ 
+
+Second: Clean the data by:
+
+removing rows that have values which are missing,
+changing the data type of some values within a column, and
+removing columns which are not relevant to this task.
+Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
